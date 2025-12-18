@@ -22,7 +22,7 @@ This README gives detailed instructions to deploy the project locally (Windows, 
 1. Clone the repository and install PHP dependencies
 
     ```bash
-    git clone https://github.com/mizhar-developer/IMS ims
+    git clone https://github.com/mizhar-developer/IMS.git ims
     cd ims
     composer install --no-interaction --prefer-dist
     ```
@@ -31,7 +31,7 @@ Quick setup (copy-paste)
 
 ```bash
 # clone
-git clone https://github.com/mizhar-developer/IMS ims && cd ims
+git clone https://github.com/mizhar-developer/IMS.git ims && cd ims
 # install PHP deps
 composer install
 # copy env
